@@ -20,4 +20,5 @@ User Trust Optimization: Analyzed the impact of fraud on legitimate users to ens
 Trend Forecasting: Identified peak fraud periods (e.g., holidays/festivals) to help the team prepare for high-risk seasons.
 
 ## 📊 Dashboard Preview
-<img width="1113" height="634" alt="image" src="https://github.com/user-attachments/assets/718bc8cf-b2a7-45c8-957b-4e959604165a" />
+<img width="1113" height="634" alt="image" src="https://github.com/user-attachments/assets/0641a1c4-02fb-4336-a8be-90ffc1375538" />
+
